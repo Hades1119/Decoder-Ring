@@ -1,2 +1,2 @@
 # Decoder-Ring
-A simple to decode messages using a variety of different algorithms
+A simple website to decode messages using a variety of different algorithms
